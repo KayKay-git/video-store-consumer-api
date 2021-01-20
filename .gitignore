@@ -30,6 +30,5 @@ package-lock.json
 node_modules
 .idea
 .env
-.Gemfile
-.Gemfile.lock
+
 
